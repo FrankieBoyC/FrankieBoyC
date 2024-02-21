@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/franklintcovington/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="[![Gmail Badge](https://img.shields.io/badge/-franklintcovington@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franklintcovington@gmail.com)](mailto:franklintcovington@gmail.com)">
     <img src="https://badges.peiyuan.ch/leetcode/{username}/name"/>
   </a>
   <a href="your-twitter-URL">
