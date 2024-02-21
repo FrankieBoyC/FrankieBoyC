@@ -17,8 +17,7 @@
   <a href="https://www.linkedin.com/in/franklintcovington/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [![Gmail Badge](https://img.shields.io/badge/-franklintcovington@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franklintcovington@gmail.com)](mailto:franklintcovington@gmail.com)
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="franklintcovington@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </div>
