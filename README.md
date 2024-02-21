@@ -7,7 +7,7 @@
 -  **Hobbies :** Chess, Computers & Hiking 
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Northeastern State University
--  **Contact :** franklintcovington@gmail.com
+-  **Contact :** [GMAIL](franklintcovington@gmail.com)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
